@@ -13,23 +13,23 @@ Tasks Completed - Level 1 (T1 to T4)
 This project is divided into multiple tasks. Below is a summary of the Level 1 tasks (T1 to T4) that have been completed:
 
 ### Task 1
-**Screenshot:**
+
 
  <img src="Level-1 T-1.png" alt="Data Cleaning and Exploration">
 
 
 ### Task 2
-**Screenshot:**
+
 
  <img src="Level-1 T-2.png" alt="Data Cleaning and Exploration">
 
 ### Task 3
-**Screenshot:**
+
 
  <img src="Level-1 T-3.png" alt="Data Cleaning and Exploration">
 
 ### Task 4
-**Screenshot:**
+
 
  <img src="Level-1 T-4.png" alt="Data Cleaning and Exploration">
 
